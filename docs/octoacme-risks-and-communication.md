@@ -21,8 +21,10 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Business Analyst facilitates stakeholder engagement and requirements gathering
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Release Manager communicates release schedules and deployment windows
 
 ## Communication Templates
 Weekly Status Template:
